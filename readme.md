@@ -1,3 +1,7 @@
+# For interviewers
+This is a simple CRUD app based on Laravel (PHP) and Vue.js written as a test task for an interview to my current position.  
+I don't have a nice open source Rails+React demo, but I'm ready to complete any kind of test task if necessary.   
+
 # Install
 - Clone project to local folder
 - Install dependencies by executing ```composer install``` from project folder
